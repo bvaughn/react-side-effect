@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/gaearon/react-side-effect",
   "contributors": [
-    "Louis DeScioli <louis.descioli@gmail.com>"
+    "Louis DeScioli (https://descioli.design)"
   ],
   "dependencies": {
     "exenv": "^1.2.1",
